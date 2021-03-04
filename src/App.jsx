@@ -4,6 +4,7 @@ import Footer from "./Footer";
 import Note from "./Note";
 import './App.css';
 
+
 import CreateArea from "./CreateArea";
 
 function App() {
