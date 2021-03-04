@@ -20,8 +20,7 @@ header {
 
 header h1 {
   color: #fff;
-  font-family: "McLaren", cursive;
-  font-weight: 200;
+  font-family: "Montserrat", sans-serif;
 }
 
 footer {
@@ -33,7 +32,7 @@ footer {
 }
 
 footer p {
-  color: #ccc;
+  color: #435560;
 }
 .note {
   background: #fff;
